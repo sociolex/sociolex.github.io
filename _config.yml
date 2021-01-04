@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            SocioLex
-tagline:          ''
-description:      'Kvantifikace socio-sémantických reprezentací v české slovní<br/>Quantifying the socio-semantics of the Czech lexicon'
+tagline:          ' '
+description:      'Kvantifikace socio-sémantických reprezentací v české slovní/Quantifying the socio-semantics of the Czech lexicon'
 url:              http://sociolex.github.io
 baseurl:          /
 
@@ -22,5 +22,4 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-github:           https://github.com/sociolex/
-  repo:
+github:           https://github.com/sociolex
