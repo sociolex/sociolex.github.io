@@ -4,21 +4,23 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
-title:            SocioLex
-tagline:          ' '
-description:      'Kvantifikace socio-sémantických reprezentací v české slovní //<br/>Quantifying the socio-semantics of the Czech lexicon'
-url:              http://sociolex.github.io
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'James Brand'
-  url:            https://jamesbrandscience.github.io
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
 
 paginate:         5
 
 # Custom vars
 version:          2.1.0
 
-github:           https://github.com/sociolex
+github:
+  repo:           https://github.com/poole/hyde
