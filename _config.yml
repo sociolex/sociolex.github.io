@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            SocioLex
+tagline:          ''
+description:      'Kvantifikace socio-sémantických reprezentací v české slovní<br/>Quantifying the socio-semantics of the Czech lexicon'
+url:              http://sociolex.github.io
+baseurl:          /
+
+author:
+  name:           'James Brand'
+  url:            https://jamesbrandscience.github.io
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:           https://github.com/sociolex/
+  repo:
